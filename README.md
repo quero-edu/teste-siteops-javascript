@@ -37,8 +37,8 @@ Os principais conjuntos de dados fornecidos incluem:
    ```bash
    git clone <url_do_repositorio>
    cd <nome_do_repositorio>
-3. Abra o arquivo test.js em seu editor de código favorito.
+3. Abra o arquivo desafios.js em seu editor de código favorito.
 4. Complete as funções marcadas como TODO.
 5. Execute o código para validar suas soluções:
     ```bash
-      node test.js
+      node desafios.js
